@@ -14,9 +14,9 @@ data and serving postcode lookups via a REST API.
 
 ## Licence & Data Requirements
 
-> [!IMPORTANT] **You must hold a valid Royal Mail PAF licence before using this
-> project with the full Royal Mail PAF dataset either internally or in a
-> production setting.**
+<!-- prettier-ignore -->
+> [!IMPORTANT]
+> **You must hold a valid Royal Mail PAF licence before using this project with the full Royal Mail PAF dataset either internally or in a production setting.**
 >
 > This project does **not** include any Royal Mail data. It is a framework for
 > processing and serving PAF data that you supply yourself. You are solely
