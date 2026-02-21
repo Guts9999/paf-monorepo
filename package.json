@@ -20,8 +20,21 @@
     "url": "https://github.com/TheDavidGilbert/paf-monorepo.git"
   },
   "homepage": "https://github.com/TheDavidGilbert/paf-monorepo#readme",
-  "keywords": [],
-  "author": "",
+  "keywords": [
+    "postcode-lookup",
+    "royal-mail-paf",
+    "uk-address",
+    "address-api",
+    "postcode",
+    "fastify",
+    "typescript",
+    "nodejs",
+    "monorepo",
+    "binary-search",
+    "self-hosted",
+    "paf"
+  ],
+  "author": "David Gilbert",
   "license": "MIT",
   "packageManager": "pnpm@9.0.0",
   "engines": {

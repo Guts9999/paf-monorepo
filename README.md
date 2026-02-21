@@ -1,4 +1,4 @@
-# PAF Monorepo
+# PAF Monorepo — Self-Hosted UK Postcode & Address Lookup API
 
 [![CI](https://github.com/TheDavidGilbert/paf-monorepo/actions/workflows/ci.yml/badge.svg)](https://github.com/TheDavidGilbert/paf-monorepo/actions/workflows/ci.yml)
 [![Node.js](https://img.shields.io/badge/node-%3E%3D20.0.0-brightgreen)](https://nodejs.org/)
@@ -15,7 +15,8 @@ data and serving postcode lookups via a REST API.
 ## Licence & Data Requirements
 
 > [!IMPORTANT] **You must hold a valid Royal Mail PAF licence before using this
-> project.**
+> project with the full Royal Mail PAF dataset either internally or in a
+> production setting.**
 >
 > This project does **not** include any Royal Mail data. It is a framework for
 > processing and serving PAF data that you supply yourself. You are solely
@@ -44,6 +45,23 @@ You are responsible for:
 - Providing your own PAF CSV data files
 - Building the binary dataset files using `@paf/builder`
 - Ensuring your deployment complies with Royal Mail's terms
+
+## Use Cases
+
+This project is a good fit if you need to:
+
+- Build a **UK address lookup** or **postcode finder** into your own application
+- Self-host a **postcode-to-address API** without relying on a third-party
+  service
+- Run **UK address validation** entirely on your own infrastructure with no
+  per-lookup fees
+- Replace a commercial address lookup API (e.g. in e-commerce checkout flows or
+  CRM systems)
+- Process and query the **full Royal Mail PAF dataset** (~40 million delivery
+  points) with sub-millisecond response times
+- Embed a **postcode autocomplete** feature backed by live PAF data
+
+It is not a fit if you do not hold (or cannot obtain) a Royal Mail PAF licence.
 
 ## Documentation
 
